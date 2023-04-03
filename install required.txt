@@ -1,0 +1,1 @@
+npm i react-bootstrap bootstrap redux react-redux react-router-dom axios
